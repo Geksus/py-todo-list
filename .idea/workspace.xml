@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02823116-65f3-4024-aabf-6379f8a7d510" name="Changes" comment="" />
+    <list default="true" id="02823116-65f3-4024-aabf-6379f8a7d510" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/includes/pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/includes/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/todo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/todo/tags_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/todo/task_create_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/templates/todo/task_update_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/todo/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDoable/todo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py-todo-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py-todo-list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoable/ToDoable/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoable/ToDoable/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoable/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoable/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoable/todo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoable/todo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoable/todo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoable/todo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDoable/todo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDoable/todo/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +40,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ToDoable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
+      <module name="py-todo-list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Mate\Projects\py-todo-list\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,10 +78,22 @@
       <option name="presentableId" value="Default" />
       <updated>1650441042539</updated>
       <workItem from="1650441043864" duration="41000" />
+      <workItem from="1650457005065" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

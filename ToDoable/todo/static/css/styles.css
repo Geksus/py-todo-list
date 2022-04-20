@@ -1,0 +1,40 @@
+body {
+    margin-top: 20px;
+    background-color: lightblue;
+}
+
+.nav-pills {
+    padding: 0;
+    list-style: none;
+    text-effect: outline;
+}
+
+.col-sm-3 {
+    background-color: lightblue;
+}
+
+.button-notdone {
+    color: white;
+    border-radius: 10px;
+    background-color: red;
+    background-size: contain;
+    width: fit-content;
+}
+
+.button-done {
+    color: white;
+    border-radius: 10px;
+    background-color: green;
+    background-size: contain;
+    width: fit-content;
+}
+
+.submit-row {
+    border-width: medium;
+    padding: 2px;
+    border-radius: 5px;
+    color: blue;
+    background-color: lemonchiffon;
+    font-size: 20px;
+    float: right;
+}
