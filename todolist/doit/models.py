@@ -23,4 +23,4 @@ class Task(models.Model):
         db_table = "task"
 
     def __str__(self):
-        return f"{self.content} - {self.tags.name}"
+        return f"{self.content} - {self.tags}"
